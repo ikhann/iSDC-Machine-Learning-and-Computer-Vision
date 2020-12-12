@@ -7,7 +7,7 @@ This repository contains the last Computer Vision and Machine Learning project f
 
 Intro to Self-Driving Cars is an online certification intended to prepare students to get some fundamentals about industry and launch Self-Driving Car Engineer career.
 
-## Outline of the last project in the Intro to Self-Driving Cars Nanodegree Program:
-#### Machine Learning and Computer Vision
+#### Outline of the last project in the Intro to Self-Driving Cars Nanodegree Program:
+##### Machine Learning and Computer Vision
 - `notes-and-labs`: Labs and my notes
 - Project 5: Traffic Light Classifier. (Build a classification pipeline that takes in an image of a traffic light)
