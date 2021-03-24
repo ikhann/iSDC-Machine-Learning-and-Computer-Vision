@@ -2,3 +2,5 @@
 *.DS_Store
 
 */.ipynb_checkpoints/
+
+notes-and-labs/*/.ipynb_checkpoints/
